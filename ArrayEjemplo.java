@@ -19,6 +19,7 @@ public class ArrayEjemplo {
         }
         double promedio = (double) suma / numeros.length;
         System.out.println("LOS RESULTADOS SON: ");
+        System.out.println("********************");
         System.out.println("Número mayor: " + max);
         System.out.println("Número menor: " + min);
         System.out.println("Suma total: " + suma);
